@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "C/C++: clang++ build and debug active file",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "/Users/davidewcasey/Documents/CPP/STROUSTRUP_PROGRAMMING_EXERCISES_BOOK/STROUSTRUP_PROGRAMMING_CHAPTER_3/STROUSTROUP_PROGRAMMING_CH3_EXAMPLE_3.5/CH3_EXAMPLE_[3.5]",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "/Users/davidewcasey/Documents/CPP/STROUSTRUP_PROGRAMMING_EXERCISES_BOOK/STROUSTRUP_PROGRAMMING_CHAPTER_3/STROUSTROUP_PROGRAMMING_CH3_EXAMPLE_3.5",
+            "environment": [],
+            "externalConsole": true,
+            "MIMode": "lldb",
+            "preLaunchTask": "C/C++: clang++ build active file"
+        }
+    ],
+    "version": "2.0.0"
+}
